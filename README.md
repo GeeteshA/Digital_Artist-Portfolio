@@ -1,1 +1,1 @@
-"# Dgital_Artist-Portfolio" 
+"# Digital_Artist-Portfolio" 
